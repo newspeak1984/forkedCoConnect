@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "716795723412",
+    "firebase_url": "https://portablepc-c20f0.firebaseio.com",
+    "project_id": "portablepc-c20f0",
+    "storage_bucket": "portablepc-c20f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716795723412:android:02cdc6f3fd864c4c",
+        "android_client_info": {
+          "package_name": "com.example.ivanchow.portablepc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716795723412-easkm2mkg3s6u2e8ug7sp40dcmn2b9qd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ivanchow.portablepc",
+            "certificate_hash": "766a1df83eccdb549218c7dfb56ac72c135cc2a3"
+          }
+        },
+        {
+          "client_id": "716795723412-oqe5qk7po5l94ms6odch5l0sn9rhd0lb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX5MTAKCFk2ujlr7DjFvn68p6abIp3O4I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716795723412-oqe5qk7po5l94ms6odch5l0sn9rhd0lb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
